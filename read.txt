@@ -1,6 +1,2 @@
-hello world
-taraz 
-karatau
-zhai gana
-aza mat
-beka 
+echo "Hello world"
+
