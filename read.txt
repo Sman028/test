@@ -1,2 +1,4 @@
 echo "Hello world"
 echo "test"
+test remote mode
+
